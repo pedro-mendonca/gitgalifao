@@ -1,0 +1,172 @@
+
+.verde{background-color: green ;}
+
+
+.amarelo{background-color: yellow;}
+
+.vermelho{background-color: red;}
+
+.azul{background-color: blue;}
+
+.laranja{background-color: orange;}
+
+.preto{background-color: black;}
+
+
+h1, h2, h3, h4, h5, h6{
+						font-weight: bold;
+
+						font-family: 'Inconsolata', ;
+						font-weight: bold;
+					}
+
+html, body {
+height: 100%;
+}
+
+
+.wrapper{overflow: hidden;}
+
+/*HEADER?*/
+
+.logo-pequeno-ecra{}
+.logotipo{margin-bottom: 0px;}
+
+#cabecalho{margin-top: 1em;}
+
+.descricao{
+
+
+}
+
+
+
+
+.nome-site{margin-top: 2em;
+
+			margin-bottom: 0.5em;
+}
+
+.site-description{font-size: 1.1em;
+
+font-family: 'Archivo Narrow', sans-serif;
+font-style: italic;
+
+float: left!important;
+
+	color: white;
+
+}
+
+#widget_sp_image-3{margin-bottom: 0px;}
+
+
+
+
+.search{padding-top:1.5em;}
+
+	
+.search-field{width: 60%;
+float: left;
+
+
+}
+/*------------------------*/
+
+
+
+   #page{height: 100%;
+
+   }
+   
+   .push{height: 4em;}
+
+
+.search{
+
+}
+
+
+
+#enfoque{width: 100%;
+overflow: hidden;
+padding-bottom: 1.5em;
+
+}
+
+#enfoque img{
+
+	 max-height: 1000px;
+    width: 100%;
+}
+
+#enfoquepeq{width: 100%;
+overflow: hidden;
+padding-bottom: 1.5em;
+
+}
+
+#enfoquepeq img{
+ max-height: 1000px;
+    width: 100%;
+    
+}
+/*NAVEGAÇÃO*/
+
+.barra{background-color: yellow;
+height: 40px;
+}
+#itemsbarra{background-color: transparent;}
+#itemsbarra li a{padding-top: 1em;
+font-size: 1.3em;
+color: orange;
+}
+
+.top-bar{background-color: black;}
+.top-bar ul{background-color: transparent;;}
+
+#site-navigation{}
+
+.top-bar input {
+    width: 150px;}
+
+    input[type="text"]{    border-radius: 0px; 
+    	margin-right: 0px;
+    	border:0px;
+
+    }
+
+    .menu > li:not(.menu-text) > a {padding:0.7321rem 1rem;}
+
+/*FOOTER*/
+
+.wrapper {
+min-height: 100%;
+height: auto !important;
+height: 100%;
+margin: 0 auto -4em;
+
+
+}
+.site-footer{background-color: black;
+	display: block;
+height: 4em;
+}
+
+
+
+
+
+.titulo-enfoque{ background-color: Black;
+color:white;
+font-size: 20px;
+z-index: 1;
+font-size: 1.5em;
+position:absolute;
+bottom:5em;
+left:0px;
+padding-left: 9px;
+
+
+
+
